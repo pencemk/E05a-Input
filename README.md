@@ -40,3 +40,4 @@ Instructions are as follows:
  - Update the LICENSE and README.md, commit your changes, and push them back to GitHub. Turn in the URL of your repository on Canvas.
 
 
+This is now updated by Matthew Pence in order to practice how Godot reacts to user inputs using simple in game movement commands by responding to keys being pressed by the user.
